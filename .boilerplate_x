@@ -1,0 +1,18 @@
+Sure! Here is the list of essential files for a FastAPI project in a Git repository:
+- README.md
+- requirements.txt
+- fastapi.py
+- application.py
+- routes.py
+- models.py
+- schemas.py
+- templates/base.html
+- templates/index.html
+- templates/about.html
+- templates/contact.html
+- templates/home.html
+- templates/login.html
+- templates/register.html
+- tests/test_app.py
+- tests/test_routes.py
+- tests/test_schemas.py
